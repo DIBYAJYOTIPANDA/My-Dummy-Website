@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(120deg, #0078D4, #00B294);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.25);
+    padding: 40px 60px;
+    border-radius: 12px;
+}
+
+h1 {
+    font-size: 42px;
+    margin-bottom: 10px;
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 8px;
+}
+
+span {
+    font-size: 14px;
+    opacity: 0.9;
+}
